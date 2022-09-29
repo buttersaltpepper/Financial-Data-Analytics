@@ -1,3 +1,13 @@
 # Data Science for Financial Markets Analysis
 
-This is where you can find my data analyst and data scinece projects completed by me for self learning and hobby purposes. Presented in the form of iPython Notebooks.
+This is where i'll be documenting my self-learn data scinece projects and how I it can used in the financial markets.
+
+# Contents
+* fdv
+* *dvfd
+* df
+* vdf
+* v
+* df
+* vd
+* 
