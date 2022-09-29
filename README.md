@@ -1,7 +1,5 @@
-# Data-Analysis-Finance
+# Data Science for Financial Markets Analysis
 
-
-# Example
 This is where you can find my data analyst and data scinece projects completed by me for self learning and hobby purposes.
 I 
 
