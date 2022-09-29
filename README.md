@@ -1,4 +1,4 @@
-# Data Science for Financial Markets Analysis
+# Data Analysis and Statistics in Finance
 
 This is where i'll be documenting my self-learn data scinece projects and how it applies to the financial markets
 
