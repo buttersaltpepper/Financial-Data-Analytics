@@ -1,4 +1,4 @@
-# Financial Data Analytics
+# Financial Data Analytics 🥸
 
 🙋‍♂️This is where i'll be here documenting self-learn data science projects and how I apply them to the financial market.
 
