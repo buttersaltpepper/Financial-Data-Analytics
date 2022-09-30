@@ -9,6 +9,8 @@
 # 📖 Projects
 [Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
 
+[KMeans Clustering to Build a Diversified Portfolio](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
+
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
 
 [S&P500 Autocorrelation, Autoregressive(AR)](SPYautocorrelation.ipynb)
@@ -23,7 +25,4 @@
 
 [K-Nearest Neighbors](KNN.ipynb)
 
-[University of Adelaide echallenge Project (work in progress)](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
-* KMeans Clustering for portfolio diversification
-* Options analysis
-* Market regime classifier
+
