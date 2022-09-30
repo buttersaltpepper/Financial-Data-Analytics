@@ -7,19 +7,19 @@
 
 
 # Projects 📖
-
-
 [Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
-[here](LinearRegression.ipynb)
+
+
+[Using Linear Regressions to Estimate Housing Prices](LinearRegression.ipynb)
 
 (HypothesisTesting.ipynb)
 
 (LogisticRegression.ipynb)
 
 
-(PredictingVolatility.ipynb)
+["Sell in May and Go Away" and the S&P500 Volatility](PredictingVolatility.ipynb)
 
-(SPYautocorrelation.ipynb)
+[Introduction to Autocorrelation, Autoregressive(AR) using S&P500](SPYautocorrelation.ipynb)
 
 (Sharpe&IR.ipynb)
 
