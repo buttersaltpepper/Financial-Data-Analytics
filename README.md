@@ -9,6 +9,8 @@
 # 📖 Projects
 [Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
 
+[Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
+
 [KMeans Clustering to Build a Diversified Portfolio](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
 
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
