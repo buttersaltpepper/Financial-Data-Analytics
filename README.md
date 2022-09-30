@@ -24,3 +24,6 @@
 [K-Nearest Neighbors](KNN.ipynb)
 
 [University of Adelaide echallenge Project (work in progress)](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
+* KMeans Clustering for portfolio diversification
+* Options analysis
+* Market regime classifier
