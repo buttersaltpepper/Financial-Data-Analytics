@@ -1,12 +1,12 @@
 # Financial Data Analytics 
 
-🙋‍♂️This is where i'll be documenting self-learn data science projects and applications to the financial market.
+🙋‍♂️This is where i'll be documenting self-learn financial data analytics projects
 
 
 
 
 
-# Projects 📖
+# 📖 Projects
 [Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
 
 ["Sell in May and Go Away" and using Asset Prices to Predict S&P500 Volatility](PredictingVolatility.ipynb)
@@ -22,7 +22,5 @@
 [Logistic Regression](LogisticRegression.ipynb)
 
 [K-Nearest Neighbors](KNN.ipynb)
-
-
 
 [University of Adelaide echallenge Project (work in progress)](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
