@@ -9,9 +9,7 @@
 # Projects 📖
 
 
-[Portfolio Theory and Management](PortfolioOptimiser.ipynb)
-
-
+[Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
 [here](LinearRegression.ipynb)
 
 (HypothesisTesting.ipynb)
