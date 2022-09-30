@@ -7,13 +7,17 @@
 
 
 # Projects 📖
+
+
+[Portfolio Theory and Management](PortfolioOptimiser.ipynb)
+
+
 [here](LinearRegression.ipynb)
 
 (HypothesisTesting.ipynb)
 
 (LogisticRegression.ipynb)
 
-(PortfolioOptimiser.ipynb)
 
 (PredictingVolatility.ipynb)
 
