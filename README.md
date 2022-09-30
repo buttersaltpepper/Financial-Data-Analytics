@@ -13,19 +13,15 @@
 
 [Introduction to Autocorrelation, Autoregressive(AR) using S&P500](SPYautocorrelation.ipynb)
 
-(Sharpe&IR.ipynb)
-
-[Applying Statistics to ](HypothesisTesting.ipynb)
-
 [Estimating Housing Prices: Statistical Inference and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
+[Hypothesis Testing](HypothesisTesting.ipynb)
 
-[Probability of Debt Default using Logistic Regression](LogisticRegression.ipynb)
+[Linear Regressions](LinearRegression.ipynb)
 
-[Introduction to Linear Regressions](LinearRegression.ipynb)
+[Logistic Regression](LogisticRegression.ipynb)
 
-[Introduction to K-Nearest Neighbors](KNN.ipynb)
-
+[K-Nearest Neighbors](KNN.ipynb)
 
 
 
