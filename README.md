@@ -17,7 +17,7 @@
 (LogisticRegression.ipynb)
 
 
-["Sell in May and Go Away" and the S&P500 Volatility](PredictingVolatility.ipynb)
+["Sell in May and Go Away" and using Macroeconomic Data to Predict S&P500](PredictingVolatility.ipynb)
 
 [Introduction to Autocorrelation, Autoregressive(AR) using S&P500](SPYautocorrelation.ipynb)
 
