@@ -4,8 +4,10 @@
 
 I am also working on a **no-code platform for financial analysis** where people with no coding knowledge can use machine learning models to analyse the financial markets. 😁[Take a look!](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)😁
 
-# Projects
 
+
+# Projects
+[here](LinearRegression.ipynb)
 * *dvfd
 * df
 * vdf
