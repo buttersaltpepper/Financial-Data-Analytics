@@ -7,7 +7,7 @@
 
 
 # 📖 Projects
-[Portfolio Optimisation and Risk Management](PortfolioOptimiser.ipynb)
+[Asset Allocation and Risk Management](PortfolioOptimiser.ipynb)
 
 [Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
 
