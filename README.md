@@ -1,8 +1,7 @@
 # Financial Data Analytics 
 
-🙋‍♂️This is where i'll be documenting interesting findings about the financial markets using self-learn data analytics/science skills
-* Big credit to Datacamp, StatQuest, 
-
+🙋‍♂️This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
+*Where I learn Data Science: prof. Jahngiry - Utah State University, StatQuest, Datacamp, *
 
 
 
