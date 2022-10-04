@@ -1,7 +1,8 @@
 # Financial Data Analytics 
 
 🙋‍♂️This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
-*Where I learn Data Science: prof. Jahngiry - Utah State University, StatQuest, Datacamp, *
+
+*Where I learn Data Science: prof. Jahngiry - Utah State University, StatQuest, Datacamp*
 
 
 
