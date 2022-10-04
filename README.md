@@ -1,7 +1,7 @@
 # Financial Data Analytics 
 
 🙋‍♂️This is where i'll be documenting interesting findings about the financial markets using self-learn data analytics/science skills
-
+* Big credit to Datacamp, StatQuest, 
 
 
 
@@ -28,3 +28,6 @@
 [Python How To: K-Nearest Neighbors](KNN.ipynb)
 
 
+
+# 📖 Research in Progress 📖
+**Planespitting: What can Private Aviation Activity indicate in Stock Markets**
