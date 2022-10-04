@@ -1,12 +1,12 @@
 # Financial Data Analytics 
 
-🙋‍♂️This is where i'll be documenting self-learn financial data analytics projects
+🙋‍♂️This is where i'll be documenting interesting findings about the financial markets using self-learn data analytics/science skills
 
 
 
 
 
-# 📖 Projects
+# 📖 Financial Analysis 📖
 [Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
 [How to Measure a Portfolio's Performance: Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
