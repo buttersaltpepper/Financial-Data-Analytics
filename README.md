@@ -2,7 +2,7 @@
 
 🙋‍♂️This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
 
-Where I learn Data Science: 
+💓My learning resources: 
 * [Pedram Jahangiry](https://github.com/PJalgotrader)
 * [StatQuest](https://statquest.org/)
 * [Datacamp](https://www.datacamp.com/)
