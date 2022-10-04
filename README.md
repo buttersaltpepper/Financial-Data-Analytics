@@ -19,6 +19,17 @@
 
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
+
+
+
+
+# ⌛ Research in Progress ⌛
+**Planespotting: What can Private Aviation Activity indicate in Stock Markets**
+
+
+
+
+# ✍️ Python How To ✍️
 [Python How To: Hypothesis Testing](HypothesisTesting.ipynb)
 
 [Python How To: Linear Regressions](LinearRegression.ipynb)
@@ -26,8 +37,3 @@
 [Python How To: Logistic Regression](LogisticRegression.ipynb)
 
 [Python How To: K-Nearest Neighbors](KNN.ipynb)
-
-
-
-# 📖 Research in Progress 📖
-**Planespitting: What can Private Aviation Activity indicate in Stock Markets**
