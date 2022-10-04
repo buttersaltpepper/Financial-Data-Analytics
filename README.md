@@ -7,7 +7,7 @@
 
 
 # 📖 Projects
-[Asset Allocation and Risk Management](AssetAllocation.ipynb)
+[Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
 [Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
 
