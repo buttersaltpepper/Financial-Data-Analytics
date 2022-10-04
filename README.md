@@ -1,6 +1,6 @@
 # Financial Data Analytics 
 
-🙋‍♂️ This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
+🙋‍♂️ This is where i'll be documenting self-learn financial data analytics projects.
 
 💓 *My learning resources:* 
 * [Pedram Jahangiry](https://github.com/PJalgotrader)
