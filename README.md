@@ -9,9 +9,9 @@
 # 📖 Projects
 [Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
-[Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
+[How to Measure a Portfolio's Performance: Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
 
-[KMeans Clustering to Build a Diversified Portfolio](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
+[Diversify Your Portfolio with KMeans Clustering](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
 
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
 
@@ -19,12 +19,12 @@
 
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
-[Hypothesis Testing](HypothesisTesting.ipynb)
+[Python How To: Hypothesis Testing](HypothesisTesting.ipynb)
 
-[Linear Regressions](LinearRegression.ipynb)
+[Python How To: Linear Regressions](LinearRegression.ipynb)
 
-[Logistic Regression](LogisticRegression.ipynb)
+[Python How To: Logistic Regression](LogisticRegression.ipynb)
 
-[K-Nearest Neighbors](KNN.ipynb)
+[Python How To: K-Nearest Neighbors](KNN.ipynb)
 
 
