@@ -1,8 +1,8 @@
 # Financial Data Analytics 
 
-🙋‍♂️This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
+🙋‍♂️ This is where i'll be documenting interesting investment findings by using self-learn data analytics skills
 
-💓My learning resources: 
+💓 My learning resources: 
 * [Pedram Jahangiry](https://github.com/PJalgotrader)
 * [StatQuest](https://statquest.org/)
 * [Datacamp](https://www.datacamp.com/)
