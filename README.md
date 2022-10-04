@@ -24,8 +24,8 @@
 
 
 # ⌛ Research in Progress ⌛
-**Planespotting: What can Private Aviation Activity indicate in Stock Markets**
-
+**Planespotting: What does Private Aviation Activity indicate in Stock Markets**
+**Steidlmayer on Markets: Trading Market Profiles with Classifiers**
 
 
 
