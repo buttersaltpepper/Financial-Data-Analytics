@@ -21,8 +21,10 @@
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
 
-**Adelaide echallenge**
-[Diversify Your Portfolio with KMeans Clustering](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
+# Adelaide eChallenge Project
+*The Australian eChallenge is an entrepreneurship program where students create, develop, assess and action ideas. It provides the tools, interaction opportunities and mentorship needed to begin entrepreneurial story*
+[Visit landing page](https://leakinga.carrd.co/)
+[Check out my dashboard](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
 
 
 # ⌛ Research in Progress ⌛
