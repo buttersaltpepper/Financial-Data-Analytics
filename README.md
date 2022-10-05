@@ -14,8 +14,6 @@
 
 [How to Measure a Portfolio's Performance: Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
 
-[Diversify Your Portfolio with KMeans Clustering](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
-
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
 
 [S&P500 Autocorrelation, Autoregressive(AR)](SPYautocorrelation.ipynb)
@@ -23,7 +21,8 @@
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
 
-
+**Adelaide echallenge**
+[Diversify Your Portfolio with KMeans Clustering](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
 
 
 # ⌛ Research in Progress ⌛
