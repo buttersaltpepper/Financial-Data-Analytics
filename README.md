@@ -30,14 +30,3 @@
 
 **Steidlmayer on Markets: Trading Market Profiles with Classifiers**
 
-
-
-## **Others**
-
-[Hypothesis Testing](HypothesisTesting.ipynb)
-
-[Linear Regressions](LinearRegression.ipynb)
-
-[Logistic Regression](LogisticRegression.ipynb)
-
-[K-Nearest Neighbors](KNN.ipynb)
