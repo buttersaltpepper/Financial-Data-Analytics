@@ -34,11 +34,11 @@
 
 
 
-# ✍️ Python How To ✍️
-[Python How To: Hypothesis Testing](HypothesisTesting.ipynb)
+**Others**
+[Hypothesis Testing](HypothesisTesting.ipynb)
 
-[Python How To: Linear Regressions](LinearRegression.ipynb)
+[Linear Regressions](LinearRegression.ipynb)
 
-[Python How To: Logistic Regression](LogisticRegression.ipynb)
+[Logistic Regression](LogisticRegression.ipynb)
 
-[Python How To: K-Nearest Neighbors](KNN.ipynb)
+[K-Nearest Neighbors](KNN.ipynb)
