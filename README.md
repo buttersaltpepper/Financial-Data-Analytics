@@ -1,5 +1,3 @@
-# Financial Data Analytics 
-
 🙋‍♂️ This is where i'll be documenting self-learn financial data analytics projects.
 
 💓 *My learning resources:* 
@@ -9,7 +7,7 @@
 
 
 
-# 📖 Financial Analysis 📖
+# 📖 Financial Data Analytics 📖
 [Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
 [How to Measure a Portfolio's Performance: Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
