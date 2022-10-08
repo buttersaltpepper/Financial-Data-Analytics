@@ -34,7 +34,8 @@
 
 
 
-**Others**
+## **Others**
+
 [Hypothesis Testing](HypothesisTesting.ipynb)
 
 [Linear Regressions](LinearRegression.ipynb)
