@@ -29,5 +29,5 @@
 
 # ⌛ Research in Progress ⌛
 
-**[Steidlmayer on Markets - Trading with Market Profiles and Order Flow Imbalance](databaseTesting.ipynb)**
+Steidlmayer on Markets - Trading with Market Profiles and Order Flow Imbalance**
 
