@@ -10,6 +10,8 @@
 # 📖 Financial Data Analytics 📖
 [Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
+[Term Structure Effect in Commodities and Hedging a Portfolio with Futures](HedgingMarketRisk.pdf)
+
 [How to Measure a Portfolio's Performance: Sharpe Ratio, Information Ratio, Skew and Kurtosis](Sharpe&IR.ipynb)
 
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
