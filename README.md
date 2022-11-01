@@ -28,7 +28,6 @@
 
 
 # ⌛ Research in Progress ⌛
-**Planespotting: What does Private Aviation Activity Indicate in Stock Markets**
 
-**[Steidlmayer on Markets: Trading Market Profiles with Classifiers](databaseTesting.ipynb)**
+**[Steidlmayer on Markets - Trading with Market Profiles and Order Flow Imbalance](databaseTesting.ipynb)**
 
