@@ -21,12 +21,6 @@
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
 
-# Adelaide eChallenge Project
-*The Australian eChallenge is an entrepreneurship program where students create, develop, assess and action ideas. It provides the tools, interaction opportunities and mentorship needed to begin entrepreneurial story*
-
-[Visit my landing page](https://leakinga.carrd.co/) or [Check out my dashboard](https://buttersaltpepper-finapp-app-cfhlmv.streamlitapp.com/)
-
-
 # ⌛ Research in Progress ⌛
 
 Steidlmayer on Markets - Trading with Market Profiles and Order Flow Imbalance**
