@@ -1,4 +1,4 @@
-🙋‍♂️ This is where i'll be documenting self-learn financial data analytics projects.
+🙋‍♂️
 
 💓 *My learning resources:* 
 * [Pedram Jahangiry](https://github.com/PJalgotrader)
@@ -19,9 +19,4 @@
 [S&P500 Autocorrelation, Autoregressive(AR)](SPYautocorrelation.ipynb)
 
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
-
-
-# ⌛ Research in Progress ⌛
-
-Steidlmayer on Markets - Trading with Market Profiles and Order Flow Imbalance**
 
