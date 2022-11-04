@@ -1,12 +1,5 @@
 🙋‍♂️
 
-💓 *My learning resources:* 
-* [Pedram Jahangiry](https://github.com/PJalgotrader)
-* [StatQuest](https://statquest.org/)
-* [Datacamp](https://www.datacamp.com/)
-
-
-
 # 📖 Financial Data Analytics 📖
 [Why Portfolio Rebalancing & Asset Allocation is Important!](AssetAllocation.ipynb)
 
