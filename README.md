@@ -9,7 +9,5 @@
 
 ["Sell in May and Go Away" and Predicting S&P500 Volatility with Asset Prices](PredictingVolatility.ipynb)
 
-[S&P500 Autocorrelation, Autoregressive(AR)](SPYautocorrelation.ipynb)
-
 [Estimating Housing Prices with Statistical Inferences and Multiple Linear Regression (MLR)](StatisticalInferences.ipynb)
 
